@@ -18,9 +18,7 @@ public class SpringExampleApplication {
 	@GetMapping(path="/first")
 	@ResponseBody
 	public String sampleMethod(){
-		
-		return "it's working buddy..!";
-		
+		return "it's working buddy..!";		
 	}
 }
 
