@@ -19,7 +19,7 @@ public class SpringExampleApplication {
 	@ResponseBody
 	public String sampleMethod(){
 		
-		return "it's working buddy";
+		return "it's working buddyljdf";
 		
 	}
 }
